@@ -1,15 +1,18 @@
 # **:tropical_drink:[Session](https://github.com/oxen-io):tropical_drink:**
 # **:cake:[Session Private Groups](/Private.md):cake:**
 ## Global Freedom Status ##
-**[RSF’s 2022 World Press Freedom Index](https://rsf.org/en/index?year=2022)** \
-**[Global Freedom Internet Freedom Democracy Status](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)** \
-**[Radicle is a peer-to-peer stack for building software together. Sound fun? Try it](https://radicle.xyz/)** \
-**[decentragit uses decentralized ownership and storage to make it trivial to create a decentralized, shareable git remote of your project.](https://github.com/quorumcontrol/dgit)** \
-**[Mango: Git, completely decentralised.](https://github.com/axic/mango)** \
-**[A decentralization of GitHub using BitTorrent and Bitcoin](https://github.com/cjb/GitTorrent)** \
+**[RSF’s 2022 World Freedom Index](https://rsf.org/en/index?year=2022)** \
+**[Global Freedom Internet Freedom Democracy Status](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)**
+
+*[Radicle is a peer-to-peer stack for building software together. Sound fun? Try it](https://radicle.xyz/)* \
+*[decentragit uses decentralized ownership and storage to make it trivial to create a decentralized, shareable git remote of your project.](https://github.com/quorumcontrol/dgit)* \
+*[Mango: Git, completely decentralised.](https://github.com/axic/mango)* \
+*[A decentralization of GitHub using BitTorrent and Bitcoin](https://github.com/cjb/GitTorrent)*
+
+**[Forever domains are truly decentralized domains with no renewal fees, ever.](https://foreverdomains.io/)** \
 **[Awesome Browser Search Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine)** \
-**[Awesome VPN Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network)** \
-**[Forever domains are truly decentralized domains with no renewal fees, ever.](https://foreverdomains.io/)
+**[Awesome VPN Network](https://github.com/GNU-Linux-libre/Awesome-VPN-Network)** 
+
 #
 ![FLV-UWEXIAQ8W6M](https://user-images.githubusercontent.com/42504385/168221064-32307f60-ccb6-47d9-be15-cb24ad400d39.jpeg)
 ![FLV-UWEXIAQ8W6M](https://pbs.twimg.com/media/FR_SFYxVIAE-lFe?format=jpg)
