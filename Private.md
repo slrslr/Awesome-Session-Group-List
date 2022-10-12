@@ -31,7 +31,7 @@ hashtag `#chat`,`#`
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 #### :fu:	FPS Good :fu:	
 <img align="left" height="128px" width="128px" alt="Server Icon" src="https://media.st.dl.eccdnx.com/steam/apps/550650/header.jpg"> \
-:ghost:**[Black Squad](https://store.steampowered.com/app/550650/)**:ghost::point_right::love_letter:**[Other language versions can be input](https://vfun.valofe.com/home)**:love_letter:	 :cherries:**Black Squad is a free military first person shooter game / I like FPS games steam Search TO4: Tactical Operations It's cooler than CSGO**:cherries: 
+:ghost:**[Black Squad](https://store.steampowered.com/app/550650/)**:ghost::point_right::love_letter:**[Other language versions can be input](https://vfun.valofe.com/home)**:love_letter:	 :cherries:**Black Squad is a free military first person shooter game / I like FPS games steam Search [TO4: Tactical Operations](https://store.steampowered.com/app/690980) It's cooler than CSGO**:cherries: 
 ``` 
 https://cabal.chat/
 ```
