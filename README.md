@@ -1,6 +1,7 @@
 # **:tropical_drink:[Session](https://github.com/oxen-io):tropical_drink:**
 # **:cake:[Session Private Groups](/Private.md):cake:**
 ## Global Freedom Status ##
+**[WEB4](https://en.everybodywiki.com/Web4)** \
 **[RSF’s 2022 World Freedom Index](https://rsf.org/en/index?year=2022)** \
 **[Global Freedom Internet Freedom Democracy Status](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)**
 
@@ -8,6 +9,7 @@
 *[decentragit uses decentralized ownership and storage to make it trivial to create a decentralized, shareable git remote of your project.](https://github.com/quorumcontrol/dgit)* \
 *[Mango: Git, completely decentralised.](https://github.com/axic/mango)* \
 *[A decentralization of GitHub using BitTorrent and Bitcoin](https://github.com/cjb/GitTorrent)*
+
 
 **[Forever domains are truly decentralized domains with no renewal fees, ever.](https://foreverdomains.io/)** \
 **[Awesome Browser Search Engine](https://github.com/GNU-Linux-libre/Awesome-Browser-Search-Engine)** \
@@ -91,7 +93,6 @@ hashtag `#session`,`#`
 - [Health and fitness](#Health-and-fitness)
   - [Food](#Food)
   - [Nutrition](#Nutrition)
-  - [Medicine](#Medicine)
   - [Medicine](#Medicine)
 - [History and events](#History-and-events)
   - [Middle Ages](#Middle-Ages)
@@ -570,10 +571,6 @@ hashtag `#session`,`#Health`
 
 
 ### Nutrition ###
-
-
-
-### Medicine ###
 
 
 
@@ -1325,3 +1322,6 @@ hashtag `#session`,`#open source`,`#foss`
 [wikipedia Contents/Outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines) \
 [Session Open Groups - Lokinet Gitea](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups) \
 [session.directory - Directory listing for Session users and groups](https://session.directory/)
+
+# Thank you!
+[Revolt](https://rvlt.gg/) :tropical_drink: [Cabal](https://cabal.chat/)
