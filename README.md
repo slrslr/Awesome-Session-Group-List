@@ -128,16 +128,22 @@ hashtag `#session`,`#`
   - [Psychology](#Psychology)
 - [Religion and belief systems](#Religion-and-belief-systems)
   - [Supernatural](#Supernatural)
+  - [theosophy](#theosophy)
   - [Myths](#Myths)
   - [Theology](#Theology)
   - [Traditional religions](#Traditional-religions)
   - [Taoism](#Taoism)
   - [Buddhism](#Buddhism)
+    - [True Buddha School](#True-Buddha-School)
   - [Hinduism](#Hinduism)
   - [Sikhism](#Sikhism)
   - [Falun Gong](#Falun-Gong)
   - [Jainism](#Jainism)
   - [Ayyavazhi](#Ayyavazhi)
+  - [Raëlism](#Raëlism)
+  - [Temple of Set](Temple-of-Set)
+  - [AMORC](#AMORC)
+  - [Golden Rosycross](#Golden-Rosycross)
   - [Tenrikyo](#Tenrikyo)
   - [Shinto](#Shinto)
   - [Spiritism Spiritualism](#Spiritism-Spiritualism)
@@ -152,6 +158,8 @@ hashtag `#session`,`#`
 	  - [Lutheranism](#Lutheranism)
 	- [Eastern Orthodoxy](#Eastern-Orthodoxy)
     - [Judaism](#Judaism)
+   - [Eastern Lightning](#Eastern-Lightning)
+    - [Jehovah's Witnesses](#Jehovah's-Witnesses)
     - [Baháʼí Faith](#Baháʼí-Faith)
   - [Spirituality](#Spirituality)
 - [Society and social sciences](#Society-and-social-sciences)
@@ -813,6 +821,8 @@ hashtag `#session`,`#adl`,`#chat`
 ### Supernatural ###
 
 
+### theosophy ###
+
 
 ### Myths ###
 
@@ -834,6 +844,10 @@ hashtag `#session`,`#adl`,`#chat`
 
 
 
+#### True Buddha School ####
+
+
+
 ### Hinduism ###
 
 
@@ -848,6 +862,19 @@ hashtag `#session`,`#adl`,`#chat`
 
 
 ### Ayyavazhi ###
+
+
+
+### Raëlism ###
+
+
+### Temple of Set ###
+
+
+### AMORC ###
+
+
+### Golden Rosycross###
 
 
 ### Tenrikyo ###
@@ -909,6 +936,14 @@ hashtag `#session`,`#AveMaria`,`#christianity`,`#abl`
 
 
 #### Judaism ####
+
+
+
+#### Eastern Lightning ####
+
+
+
+#### Jehovah's Witnesses ####
 
 
 
