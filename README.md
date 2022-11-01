@@ -3,7 +3,8 @@
 ## Global Freedom Status ##
 **[WEB4](https://en.everybodywiki.com/Web4)** \
 **[RSF’s 2022 World Freedom Index](https://rsf.org/en/index?year=2022)** \
-**[Global Freedom Internet Freedom Democracy Status](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)**
+**[Global Freedom Internet Freedom Democracy Status](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)** \
+**[The Global Rule of Law Recession Continues](https://worldjusticeproject.org/rule-of-law-index/)
 
 *[Radicle is a peer-to-peer stack for building software together. Sound fun? Try it](https://radicle.xyz/)* \
 *[decentragit uses decentralized ownership and storage to make it trivial to create a decentralized, shareable git remote of your project.](https://github.com/quorumcontrol/dgit)* \
@@ -391,7 +392,7 @@ hashtag `#session`,`#Travel`
 ```
 http://sog.caliban.org/gaming?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07c6e3bf4e7855640dad821
 ```
-hashtag `#session`,`#games`,`gaming`
+hashtag `#session`,`#games`,`#gaming`
 ***********************************************************************************************************************************************************************
 
 
@@ -572,6 +573,15 @@ hashtag `#session`,`#Ukraine`,`#chat`
 
 ### Oceania ###
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Australia :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**A group for all things Australia**:cherries:
+```
+http://20.168.47.58/Australia?public_key=52bca7cca122eeea612c7f7/Australia?public_key=52bca7cca122eeea612c7f75ca4c39660725929a5061f35947154a9362fdd540
+```
+hashtag `#session`,`#Australia`
+***********************************************************************************************************************************************************************
 
 
 ## Health and fitness ##
@@ -712,6 +722,16 @@ http://sog.caliban.org/im?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07
 hashtag `#session`,`#im`
 ***********************************************************************************************************************************************************************
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Bipolar :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Group for those with, or supporting, bipolar disorder**:cherries:
+```
+http://20.168.47.58/Bipolar?public_key=52bca7cca122eeea61/Bipolar?public_key=52bca7cca122eeea612c7f75ca4c39660725929a5061f35947154a9362fdd540
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
+
 ### videos ###
 
 
@@ -734,6 +754,17 @@ hashtag `#session`,`#Uncensored`,`#Ghost`,`#Yokai`,`#Yurei`,`#Yosei`,`#thriller`
 
 
 ### Communication ###
+
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: General chat :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**General chat**:cherries:
+```
+http://20.168.47.58/General?public_key=52bca7cca122eeea612c7f75ca4c39660725929a5061f35947154a9362fdd540
+```
+hashtag `#session`,`#chat`
+***********************************************************************************************************************************************************************
 
 
 
@@ -794,7 +825,7 @@ hashtag `#session`,`#cosplay`
 #### open pussy ####
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Nude Women 18+ :fu:
+###### :fu: Woman Body Boobie :fu:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](http://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Nude Women 18+**:cherries:
 ```
@@ -872,9 +903,10 @@ hashtag `#session`,`#open pussy`,`#pussy`,`#sex`,`#pee`,`#porn`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: General Porn 18+ :fu:
+###### :fu: Gooner Porn Addict :fu:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
-(Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**General Porn 18+**:cherries:
+(Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:18+ group focused on staying addicted to porn and never leaving porn and encouraging others to goon to porn
+**:cherries:
 ```
 https://nsfw.n00d.xyz/gooner?public_key=01ef44e55a87f87b546dade8d073997e7cf57ff43b43002334f18da7b4fc6264
 ```
@@ -1088,7 +1120,15 @@ hashtag `#session`,`#collapse`
 
 ### Politics ###
 
-
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Real Politics :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Uncensored political chat**:cherries:
+```
+https://sogs.peter.mu/11111111111111?public_key=ff8328ef10acedd98065709ff908ec688a04a28367b725dcc81a521d52306418
+```
+hashtag `#session`,`#Politics`,`#`
+***********************************************************************************************************************************************************************
 
 #### Anarchism ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
@@ -1107,7 +1147,7 @@ hashtag `#session`,`#Politics`,`#Chinese`,`#china`,`#中文`,`#漢語`,`#汉语`
 ```
 http://adl.army/politics?public_key=4f85a43c2d8e4cc72154b3ef7d98bd2a4dad73ab3174978337e97a9b1260293c
 ```
-hashtag `#session`,`#Politics`,`#政治`
+hashtag `#session`,`#Politics`,`#`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :fu: Politics :fu:
@@ -1116,7 +1156,7 @@ hashtag `#session`,`#Politics`,`#政治`
 ```
 http://116.203.217.101/pol?public_key=2054fa3271f27ec9e55492c85d022f9582cb4aa2f457e4b885147fb913b9c131
 ```
-hashtag `#session`,`#Politics`,`#政治`
+hashtag `#session`,`#Politics`,`#`
 ***********************************************************************************************************************************************************************
 
 
@@ -1472,4 +1512,6 @@ hashtag `#session`,`#open source`,`#foss`
 [session.directory - Directory listing for Session users and groups](https://session.directory/)
 
 # Thank you!
-[Revolt](https://rvlt.gg/) :tropical_drink: [Cabal](https://cabal.chat/)
+[Cabal](https://cabal.chat/) :tropical_drink: [Revolt](https://rvlt.gg/) :tropical_drink: [Mastodon](https://joinmastodon.org/) :tropical_drink: [Glimesh](https://glimesh.tv/) :tropical_drink: [d.tube](https://d.tube/) 
+
+[Minetest](https://www.Minetest.net) :tropical_drink: [TO4_Tactical_Operations](https://store.steampowered.com/app/690980)
