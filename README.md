@@ -118,6 +118,8 @@ hashtag `#session`,`#`
   - [Furry](#Furry)
   - [Human sexuality](#Human-sexuality)
     - [open pussy](#open-pussy)
+    - [Pussy Gallery](#Pussy-Gallery)
+    - [Uncensored](#Uncensored)
 	- [SEX](#SEX)
     - [LGBT](#LGBT)
     - [BDSM](#BDSM)
@@ -382,6 +384,15 @@ hashtag `#session`,`#Travel`
 
 #### Games ####
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Gaming :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**information**:cherries:
+```
+http://sog.caliban.org/gaming?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07c6e3bf4e7855640dad821
+```
+hashtag `#session`,`#games`,`gaming`
+***********************************************************************************************************************************************************************
 
 
 #### Sports ####
@@ -398,6 +409,15 @@ hashtag `#session`,`#Travel`
 
 ### Hobbies crafts and other ###
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: guns :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**firearms enthusiasts**:cherries:
+```
+http://sogs.horse.xxx/guns?public_key=2b92fc8b53bc3326aa66a9d4451442683d7308c657a8144cf60798965d0f7918
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
 
 
 #### Toys ####
@@ -760,9 +780,53 @@ hashtag `#session`,`#docker`,`#regarding`,`#Chat`,`#Oxen`
 
 ### Human sexuality ###
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: cosplay :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**cosplay**:cherries:
+```
+https://nsfw.n00d.xyz/cosplay?public_key=01ef44e55a87f87b546dade8d073997e7cf57ff43b43002334f18da7b4fc6264
+```
+hashtag `#session`,`#cosplay`
+***********************************************************************************************************************************************************************
+
 
 #### open pussy ####
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Nude Women 18+ :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](http://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Nude Women 18+**:cherries:
+```
+https://nsfw.n00d.xyz/sendnudes?public_key=01ef44e55a87f87b546dade8d073997e7cf57ff43b43002334f18da7b4fc6264
+```
+hashtag `#session`,`#18+`,`#Nude`,`#Women`
+***********************************************************************************************************************************************************************
+
+#### Pussy Gallery ####
+
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: /soc/ :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**soc  cams and hookups  for degenerates**:cherries:
+```
+http://sogs.horse.xxx/soc?public_key=2b92fc8b53bc3326aa66a9d4451442683d7308c657a8144cf60798965d0f7918
+```
+hashtag `#session`,`#cams`,`#hookups`,`#degenerates`
+***********************************************************************************************************************************************************************
+
+#### Uncensored ####
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Uncensored :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**information**:cherries:
+```
+http://185.130.45.173/uncensored?public_key=b79f827bbb1c9ab5a3d444fe7f9342915c672d474c0eaa8020c8983cebf35400
+```
+hashtag `#session`,`#Uncensored`,`#jav`
+***********************************************************************************************************************************************************************
 
 #### SEX ####
 
@@ -783,8 +847,19 @@ hashtag `#session`,`#docker`,`#regarding`,`#Chat`,`#Oxen`
 ```
 http://2hu-ch.org/hentai?public_key=49ac5595058829c961eea6f60c44914cd08ea9b4c463d657fc82904eb2a89623
 ```
-hashtag `#session`,`#Hentai`,`#sex`
+hashtag `#session`,`#Hentai`,`#sex`,`nsfw`
 ***********************************************************************************************************************************************************************
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: 18+ nsfw archive :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**nsfw archive**:cherries:
+```
+https://nsfw.n00d.xyz/nsfw-archive?public_key=01ef44e55a87f87b546dade8d073997e7cf57ff43b43002334f18da7b4fc6264
+```
+hashtag `#session`,`#archive`,`#nsfw`,`#18+`
+***********************************************************************************************************************************************************************
+
 #### PORN ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :fu: Boobies :fu:
@@ -795,7 +870,28 @@ http://104.129.129.173/boobies?public_key=75a0821d338f27e3a47bea9a2f8234e7c082d6
 ```
 hashtag `#session`,`#open pussy`,`#pussy`,`#sex`,`#pee`,`#porn`
 ***********************************************************************************************************************************************************************
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: General Porn 18+ :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**General Porn 18+**:cherries:
+```
+https://nsfw.n00d.xyz/gooner?public_key=01ef44e55a87f87b546dade8d073997e7cf57ff43b43002334f18da7b4fc6264
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
+
 #### Adult ####
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Trans/Shemale/Ladydick 18+ :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Trans Shemale Ladydick 18+**:cherries:
+```
+https://nsfw.n00d.xyz/trans?public_key=01ef44e55a87f87b546dade8d073997e7cf57ff43b43002334f18da7b4fc6264
+```
+hashtag `#session`,`#Trans`,`#Shemale`,`#Ladydick`
+***********************************************************************************************************************************************************************
 
 
 
@@ -990,7 +1086,6 @@ hashtag `#session`,`#collapse`
 ### Business ###
 
 
-
 ### Politics ###
 
 
@@ -1086,6 +1181,16 @@ hashtag `#session`,`#tech`
 
 
 ### Computing ###
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: /g/ | technology :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](http://sogs.horse.xxx/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**talking about computers and stuff**:cherries:
+```
+http://sogs.horse.xxx/gee?public_key=2b92fc8b53bc3326aa66a9d4451442683d7308c657a8144cf60798965d0f7918
+```
+hashtag `#session`,`#computing`
+***********************************************************************************************************************************************************************
 
 
 
@@ -1240,7 +1345,6 @@ hashtag `#session`,`#macos`
 ### Web3 Development ###
 
 
-
 #### Blockchain and Cryptocurrency Ethereum ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :fu: ADL Finance :fu:
@@ -1252,12 +1356,21 @@ http://adl.army/finance?public_key=4f85a43c2d8e4cc72154b3ef7d98bd2a4dad73ab31749
 hashtag `#session`,`#adl`,`#money`,`#crypto`
 ***********************************************************************************************************************************************************************
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: biz :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](http://sogs.horse.xxx/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**it's where people go to talk about dogecoin and chainlink**:cherries:
+```
+http://sogs.horse.xxx/biz?public_key=2b92fc8b53bc3326aa66a9d4451442683d7308c657a8144cf60798965d0f7918
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
+
 #### dapp ####
 
 
 
 ### Internet ###
-
 
 
 #### Dvpn ####
@@ -1333,7 +1446,7 @@ hashtag `#session`,`#Privacy`
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/Chinese-Privacy.png"> \
 (Server location:`China`) :ghost:**[隐私权（Privacy）](https://session.directory/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**隐私权，隱私權 🇨🇳 The Right to Privacy**:cherries:
 ```
-http://120.27.184.197:9999/privacy?public_key=cd5465714c1e0e6dd3439d4bff8e8ebfc5d67341cfda412ebb2f9d5ee41f992e
+http://117.186.115.186:8888/privacy?public_key=fe93941471c07f294255391dba92ae3cf356efc4fdd287d8ba1ffef096dbaf56
 ```
 hashtag `#session`,`#Privacy`,`#Chinese`,`#中文`,`#漢語`,`#汉语`,`#隐私权`,`#隱私權`,`#隐私`,`#中国`
 ***********************************************************************************************************************************************************************
