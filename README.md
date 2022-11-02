@@ -31,7 +31,7 @@ A quick lookup from browser `ctrl + f` may help to find communities by a topic
 
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Server name :fu:
+###### :shipit: Server name :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**information**:cherries:
 ```
@@ -229,7 +229,7 @@ set of shared attitudes, values, goals, and practices that define a group of peo
 
 #### Books ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Book :fu:
+###### :shipit: ADL Book :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Books.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL - Books](http://adl.army/)**:ghost::point_right::love_letter:**[Contact Me](http://adl.army/)**:love_letter: :cherries:**Book club**:cherries:
 ```
@@ -260,7 +260,7 @@ hashtag `#session`,`#adl`,`#books`,`#reading`
 
 #### Anime ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-######:fu: Anime :fu:
+######:fu: Anime :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Seychelles`) :ghost:**[Official website](https://2hu-ch.org/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Anime**:cherries:
 ```
@@ -323,7 +323,7 @@ hashtag `#session`,`#Anime`
 
 #### Film ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Movies Shows :fu:
+###### :shipit: ADL Movies Shows :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Movies-Shows.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL Movies & Shows](http://adl.army/)**:ghost::point_right::love_letter:**[Official website](http://adl.army/)**:love_letter: :cherries:**Discussion about the entertainment industry**:cherries:
 ```
@@ -347,7 +347,7 @@ hashtag `#session`,`#adl`,`#movies`,`#film`
 
 #### Music ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Music :fu:
+###### :shipit: Music :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Music**:cherries:
 ```
@@ -374,7 +374,7 @@ hashtag `#session`,`#Music`,`#Acapella`
 
 ### Recreation and Entertainment ###
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Travel :fu:
+###### :shipit: Travel :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Travel**:cherries:
 ```
@@ -386,7 +386,7 @@ hashtag `#session`,`#Travel`
 #### Games ####
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Gaming :fu:
+###### :shipit: Gaming :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**information**:cherries:
 ```
@@ -411,7 +411,7 @@ hashtag `#session`,`#games`,`#gaming`
 ### Hobbies crafts and other ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: guns :fu:
+###### :shipit: guns :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**firearms enthusiasts**:cherries:
 ```
@@ -440,7 +440,7 @@ hashtag `#session`,`#`
 ### Asia ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Russian :fu:
+###### :shipit: Russian :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇷🇺 Russian**:cherries:
 ```
@@ -449,7 +449,7 @@ http://sog.caliban.org/russian?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139e
 hashtag `#session`,`#Russian`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Persian (Farsi) :fu:
+###### :shipit: Persian (Farsi) :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇮🇷 Persian (Farsi)**:cherries:
 ```
@@ -458,7 +458,7 @@ http://sog.caliban.org/persian?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139e
 hashtag `#session`,`#Persian`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Scandinavian languages :fu:
+###### :shipit: Scandinavian languages :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Scandinavian languages 🇮🇸 🇳🇴 🇩🇰 🇸🇪 🇫🇮**:cherries:
 ```
@@ -468,7 +468,7 @@ hashtag `#session`,`#Scandinavian`,`#chat`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: India 🇮🇳 :fu:
+###### :shipit: India 🇮🇳 :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**India 🇮🇳 Bhārat - भारत**:cherries:
 ```
@@ -478,7 +478,7 @@ hashtag `#session`,`#`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Indonesia 🇮🇩 :fu:
+###### :shipit: Indonesia 🇮🇩 :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Indonesia 🇮🇩**:cherries:
 ```
@@ -496,7 +496,7 @@ hashtag `#session`,`#`
 
 ### South America ###
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Brazil :fu:
+###### :shipit: Brazil :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Brazil](http://sog.caliban.org/brasil?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07c6e3bf4e7855640dad821)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Brazil 🇧🇷**:cherries:
 ```
@@ -505,7 +505,7 @@ http://sog.caliban.org/brasil?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee
 hashtag `#session`,`#Brazil`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Portuguese :fu:
+###### :shipit: Portuguese :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Portuguese](http://sog.caliban.org/portugues?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07c6e3bf4e7855640dad821)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇵🇹 Portuguese**:cherries:
 ```
@@ -520,7 +520,7 @@ hashtag `#session`,`#Portuguese`,`#chat`
 ### Europe ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Spanish :fu:
+###### :shipit: Spanish :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇪🇸 Spanish**:cherries:
 ```
@@ -529,7 +529,7 @@ http://sog.caliban.org/espanol?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139e
 hashtag `#session`,`#Spanish`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Dutch/Netherlands :fu:
+###### :shipit: Dutch/Netherlands :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇳🇱 Dutch/Netherlands**:cherries:
 ```
@@ -538,7 +538,7 @@ http://sog.caliban.org/nl?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07
 hashtag `#session`,`#Dutch``chat`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Finnish :fu:
+###### :shipit: Finnish :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Finnish**:cherries:
 ```
@@ -547,7 +547,7 @@ http://173.249.51.184/fi?public_key=2812244a5577d56a5b1220706e25cdc230363ce33d77
 hashtag `#session`,`#Finnish`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: French :fu:
+###### :shipit: French :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇨🇵 French**:cherries:
 ```
@@ -556,7 +556,7 @@ http://sog.caliban.org/francais?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139
 hashtag `#session`,`#French`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: German :fu:
+###### :shipit: German :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**German 🇩🇪 🇨🇭 🇦🇹**:cherries:
 ```
@@ -565,7 +565,7 @@ http://sog.caliban.org/deutsch?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139e
 hashtag `#session`,`#German`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Italian :fu:
+###### :shipit: Italian :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Italy`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇮🇹 Italian**:cherries:
 ```
@@ -574,7 +574,7 @@ https://opensessionitalia.eu.org/ita?public_key=021ac6279595d141375ca49617e2605d
 hashtag `#session`,`#Italian`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: chat Italian :fu:
+###### :shipit: chat Italian :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Italy`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**🇮🇹 chat Italian**:cherries:
 ```
@@ -583,7 +583,7 @@ https://sogs.massivebox.eu.org/ita?public_key=021ac6279595d141375ca49617e2605d8c
 hashtag `#session`,`#Italian`,`#chat`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Ukraine comms :fu:
+###### :shipit: Ukraine comms :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Ukraine comms](http://reccacon.com/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Ukraine comms 🇺🇦**:cherries:
 ```
@@ -593,7 +593,7 @@ hashtag `#session`,`#Ukraine`,`#chat`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Czech, Slovak 🇨🇿 🇸🇰 :fu:
+###### :shipit: Czech, Slovak 🇨🇿 🇸🇰 :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Czech, Slovak 🇨🇿 🇸🇰 Česko-slovenská komunita**:cherries:
 ```
@@ -603,7 +603,7 @@ hashtag `#session`,`#`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Poland 🇵🇱 :fu:
+###### :shipit: Poland 🇵🇱 :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Poland 🇵🇱**:cherries:
 ```
@@ -615,7 +615,7 @@ hashtag `#session`,`#`
 ### Oceania ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Australia :fu:
+###### :shipit: Australia :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**A group for all things Australia**:cherries:
 ```
@@ -626,7 +626,7 @@ hashtag `#session`,`#Australia`
 
 ## Health and fitness ##
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Health :fu:
+###### :shipit: ADL Health :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Health.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL - Health](http://adl.army/)**:ghost::point_right::love_letter:**[Official website](http://adl.army/)**:love_letter: :cherries:**Diet, exercise, supplements**:cherries:
 ```
@@ -635,7 +635,7 @@ http://adl.army/health?public_key=4f85a43c2d8e4cc72154b3ef7d98bd2a4dad73ab317497
 hashtag `#session`,`#adl`,`#fitness`,`#Health`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Health :fu:
+###### :shipit: Health :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Health**:cherries:
 ```
@@ -680,7 +680,7 @@ History is the interpretation of past events, societies and civilizations.histor
 ## Human activities ##
 Human activities are the various actions for recreation, living, or necessity done by people. For instance it includes leisure, entertainment, manufacturing, recreation, war, and exercise.
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Self-Defense :fu:
+###### :shipit: ADL Self-Defense :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL - Self-Defense](http://adl.army)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Weapons, martial arts, security systems, survival**:cherries:
 ```
@@ -689,7 +689,7 @@ http://adl.army/defense?public_key=4f85a43c2d8e4cc72154b3ef7d98bd2a4dad73ab31749
 hashtag `#session`,`#Survival`,`#martial-arts`,`#self-defense`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Feels good group :fu:
+###### :shipit: Feels good group :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Self-Defense.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Feels good group**:cherries: 
 ```
@@ -698,7 +698,7 @@ http://116.203.217.101/feels?public_key=2054fa3271f27ec9e55492c85d022f9582cb4aa2
 hashtag `#session`,`#group`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Memes :fu:
+###### :shipit: Memes :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/Memes.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Memes is an idea, behavior, image, or style that is spread via the Internet, often through social media platforms.**:cherries:
 ```
@@ -707,7 +707,7 @@ http://remote.noff.co:8700/Memes?public_key=ea8f844e29c46eb685825165cfe4b9ea044f
 hashtag `#session`,`#Memes`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Modern Survival :fu:
+###### :shipit: Modern Survival :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Welcome to Modern Survival reincarnated**:cherries:
 ```
@@ -763,7 +763,7 @@ hashtag `#session`,`#im`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Bipolar :fu:
+###### :shipit: Bipolar :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Group for those with, or supporting, bipolar disorder**:cherries:
 ```
@@ -779,7 +779,7 @@ hashtag `#session`,`#`
 #### Terror videos ####
 Ghost,Yokai,Yurei,Yosei,thriller,monster.
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Uncensored :fu:
+###### :shipit: Uncensored :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Uncensored Ghost,Yokai,Yurei,Yosei,thriller,monster**:cherries:
 ```
@@ -797,7 +797,7 @@ hashtag `#session`,`#Uncensored`,`#Ghost`,`#Yokai`,`#Yurei`,`#Yosei`,`#thriller`
 
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: General chat :fu:
+###### :shipit: General chat :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**General chat**:cherries:
 ```
@@ -810,7 +810,7 @@ hashtag `#session`,`#chat`
 
 #### Session Oxen ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ONS :fu:
+###### :shipit: ONS :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:** Oxen Name System (ONS), Unofficial Open Groups run by the community**:cherries:
 ```
@@ -819,7 +819,7 @@ http://sog.caliban.org/ons?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a0
 hashtag `#session`,`#Chat`,`#Oxen`,`#Oxen Name System`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Oxen Service Node Operators :fu:
+###### :shipit: Oxen Service Node Operators :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Oxen Service Node Operators, Unofficial Open Groups run by the community**:cherries:
 ```
@@ -828,7 +828,7 @@ http://sog.caliban.org/snops?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8
 hashtag `#session`,`#Chat`,`#Oxen`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Session Open Group Server Operators :fu:
+###### :shipit: Session Open Group Server Operators :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Session Open Group Server Operators,Unofficial Open Groups run by the community**:cherries:
 ```
@@ -837,7 +837,7 @@ http://sog.caliban.org/sogops?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee
 hashtag `#session`,`#Chat`,`#Oxen`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: MassiveBox :fu:
+###### :shipit: MassiveBox :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Italy`) :ghost:**[MassiveBox](https://massivebox.net/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**MassiveBox’s Session Open Group for support regarding the community docker images**:cherries:
 ```
@@ -852,7 +852,7 @@ hashtag `#session`,`#docker`,`#regarding`,`#Chat`,`#Oxen`
 ### Human sexuality ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: cosplay :fu:
+###### :shipit: cosplay :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**cosplay**:cherries:
 ```
@@ -865,7 +865,7 @@ hashtag `#session`,`#cosplay`
 #### open pussy ####
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Woman Body Boobie :fu:
+###### :shipit: Woman Body Boobie :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](http://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Nude Women 18+**:cherries:
 ```
@@ -878,7 +878,7 @@ hashtag `#session`,`#18+`,`#Nude`,`#Women`
 
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: /soc/ :fu:
+###### :shipit: /soc/ :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**soc  cams and hookups  for degenerates**:cherries:
 ```
@@ -890,7 +890,7 @@ hashtag `#session`,`#cams`,`#hookups`,`#degenerates`
 #### Uncensored ####
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Uncensored :fu:
+###### :shipit: Uncensored :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**information**:cherries:
 ```
@@ -912,7 +912,7 @@ hashtag `#session`,`#Uncensored`,`#jav`
 
 #### NSFW ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Hentai :fu:
+###### :shipit: Hentai :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Seychelles`) :ghost:**[Hentai](http://2hu-ch.org/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Hentai :underage: is anime and manga pornography :underage:**:cherries:
 ```
@@ -922,7 +922,7 @@ hashtag `#session`,`#Hentai`,`#sex`,`nsfw`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: 18+ nsfw archive :fu:
+###### :shipit: 18+ nsfw archive :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**nsfw archive**:cherries:
 ```
@@ -933,7 +933,7 @@ hashtag `#session`,`#archive`,`#nsfw`,`#18+`
 
 #### PORN ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Boobies :fu:
+###### :shipit: Boobies :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Canada`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Boobies :underage: moderated group featuring women in various states of undress :underage:**:cherries:
 ```
@@ -943,7 +943,7 @@ hashtag `#session`,`#open pussy`,`#pussy`,`#sex`,`#pee`,`#porn`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Gooner Porn Addict :fu:
+###### :shipit: Gooner Porn Addict :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:18+ group focused on staying addicted to porn and never leaving porn and encouraging others to goon to porn
 **:cherries:
@@ -956,7 +956,7 @@ hashtag `#session`,`#`
 #### Adult ####
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Trans/Shemale/Ladydick 18+ :fu:
+###### :shipit: Trans/Shemale/Ladydick 18+ :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](https://nsfw.n00d.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Trans Shemale Ladydick 18+**:cherries:
 ```
@@ -973,7 +973,7 @@ hashtag `#session`,`#Trans`,`#Shemale`,`#Ladydick`
 
 ### Psychology ###
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :ADL Anti Degeneracy League :fu:
+###### :ADL Anti Degeneracy League :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Anti-Degeneracy-League.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL - Anti-Degeneracy League](http://adl.army/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**ADL - Anti-Degeneracy League General chat room**:cherries:
 ```
@@ -1069,7 +1069,7 @@ hashtag `#session`,`#adl`,`#chat`
 
 ### Christianity ###
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: AveMaria :fu:
+###### :shipit: AveMaria :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**AveMaria (a group for catholics and philosophy)**:cherries:
 ```
@@ -1078,7 +1078,7 @@ http://73.55.197.99:9999/christ?public_key=74edb4daa65d237e8d71cb5fb066e876b18a8
 hashtag `#session`,`#AveMaria`,`#christianity`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Christianity :fu:
+###### :shipit: ADL Christianity :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Christianity.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL Christianity](http://adl.army)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**AveMaria (ADL - Christianity)**:cherries:
 ```
@@ -1125,7 +1125,7 @@ hashtag `#session`,`#AveMaria`,`#christianity`,`#abl`
 
 ## Society and social sciences ##
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Prepping :fu:
+###### :shipit: ADL Prepping :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Prepping.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL - Prepping](http://adl.army)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**ADL - Prepping Preparing for the collapse of society**:cherries:
 ```
@@ -1161,7 +1161,7 @@ hashtag `#session`,`#collapse`
 ### Politics ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Real Politics :fu:
+###### :shipit: Real Politics :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Uncensored political chat**:cherries:
 ```
@@ -1172,7 +1172,7 @@ hashtag `#session`,`#Politics`,`#`
 
 #### Anarchism ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Open Chinese Group :fu:
+###### :shipit: Open Chinese Group :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/Open-Chinese-Group.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Open Chinese Group 中文开放群 The Chinese Language Session Open Group 🇨🇳 ，中文開放群**:cherries:
 ```
@@ -1181,7 +1181,7 @@ http://45.77.102.159/origin?public_key=132d7cf93a6a72eabbf9357a3a29d0644b27b1166
 hashtag `#session`,`#Politics`,`#Chinese`,`#china`,`#中文`,`#漢語`,`#汉语`,`#政治`,`#中国`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Politics :fu:
+###### :shipit: ADL Politics :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Politics.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL - Politics](http://adl.army)**:ghost::point_right::love_letter:**[Official website](http://adl.army)**:love_letter: :cherries:**Government, news, activism, political views**:cherries:
 ```
@@ -1190,7 +1190,7 @@ http://adl.army/politics?public_key=4f85a43c2d8e4cc72154b3ef7d98bd2a4dad73ab3174
 hashtag `#session`,`#Politics`,`#`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Politics :fu:
+###### :shipit: Politics :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Politics**:cherries:
 ```
@@ -1219,7 +1219,7 @@ hashtag `#session`,`#Politics`,`#`
 ## Technology and applied sciences ##
 Technology – making, usage, and knowledge of tools, machines, techniques, crafts, systems or methods of organization in order to solve a problem or perform a specific function. It can also refer to the collection of such tools, machinery, and procedures. Applied science – application of scientific knowledge transferred into a physical environment. Examples include testing a theoretical model through the use of formal science or solving a practical problem through the use of natural science.
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: tech :fu:
+###### :shipit: tech :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**tech is General Technology Discussion**:cherries:
 ```
@@ -1263,7 +1263,7 @@ hashtag `#session`,`#tech`
 ### Computing ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: /g/ | technology :fu:
+###### :shipit: /g/ | technology :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](http://sogs.horse.xxx/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**talking about computers and stuff**:cherries:
 ```
@@ -1300,7 +1300,7 @@ hashtag `#session`,`#computing`
 
 #### Software development ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Build a Bot :fu:
+###### :shipit: Build a Bot :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Build a Bot**:cherries:
 ```
@@ -1315,7 +1315,7 @@ hashtag `#session`,`#bot`,`#Build`
 
 ##### GNU/Linux-libre #####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: GNU/Linux :fu:
+###### :shipit: GNU/Linux :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/Linux.png"> \
 (Server location:``) :ghost:**[GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**GNU/Linux-libre Linux-libre GNU os Linux**:cherries:
 ```
@@ -1339,7 +1339,7 @@ hashtag `#session`,`#GNU/Linux-libre`,`#Linux-libre`,`#Linux`,`#os`
 
 ##### Unix #####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: UNIX :fu:
+###### :shipit: UNIX :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**UNIX (supersedes UNIX Platform Talk as of 2022-02-04, which suffers from a technical issue causing duplicate messages to be displayed on the Android Session client)**:cherries:
 ```
@@ -1348,7 +1348,7 @@ http://sog.caliban.org/unix?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a
 hashtag `#session`,`#UNIX`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: UNIX Platform Talk :fu:
+###### :shipit: UNIX Platform Talk :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:****UNIX Platform Talk****:cherries:
 ```
@@ -1359,7 +1359,7 @@ hashtag `#session`,`#UNIX`
 
 ##### Windows #####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Windows Platform Talk :fu:
+###### :shipit: Windows Platform Talk :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Windows Platform Talk**:cherries:
 ```
@@ -1371,7 +1371,7 @@ hashtag `#session`,`#Windows`
 
 ##### Android #####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Android :fu:
+###### :shipit: Android :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Android (supersedes Android Platform Talk as of 2022-02-04, which suffers from a technical issue causing duplicate messages to be displayed on the Android Session client)**:cherries:
 ```
@@ -1380,7 +1380,7 @@ http://sog.caliban.org/android?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139e
 hashtag `#session`,`#Android`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Android Platform Talk :fu:
+###### :shipit: Android Platform Talk :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Android Platform Talk**:cherries:
 ```
@@ -1392,7 +1392,7 @@ hashtag `#session`,`#Android`
 
 ##### ios #####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: iOS Platform Talk :fu:
+###### :shipit: iOS Platform Talk :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**iOS Platform Talk**:cherries:
 ```
@@ -1414,7 +1414,7 @@ hashtag `#session`,`#ios`
 
 ###### macOS ######
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: MacOS Platform Talk :fu:
+###### :shipit: MacOS Platform Talk :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**MacOS Platform Talk**:cherries:
 ```
@@ -1427,7 +1427,7 @@ hashtag `#session`,`#macos`
 
 #### Blockchain and Cryptocurrency Ethereum ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL Finance :fu:
+###### :shipit: ADL Finance :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Finance.png"> \
 (Server location:`Netherlands`) [ADL - Finance](http://adl.army/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**ADL - Finance Investments, money management, crypto, stocks, bullion**:cherries
 ```
@@ -1437,7 +1437,7 @@ hashtag `#session`,`#adl`,`#money`,`#crypto`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: biz :fu:
+###### :shipit: biz :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:``) :ghost:**[Official website](http://sogs.horse.xxx/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**it's where people go to talk about dogecoin and chainlink**:cherries:
 ```
@@ -1455,7 +1455,7 @@ hashtag `#session`,`#`
 
 #### Dvpn ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Lokinet :fu:
+###### :shipit: Lokinet :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) [Lokinet](https://github.com/oxen-io/lokinet)**:ghost::point_right::love_letter:**[Lokinet](https://github.com/oxen-io/lokinet)**:love_letter: :cherries:**Lokinet Discussion**:cherries:
 ```
@@ -1467,7 +1467,7 @@ hashtag `#session`,`#dvpn``#Chat`,`#Oxen`,`#vpn`,`#decentralised`,`#anonymous`,`
 
 #### Privacy Anonymity Security Tools ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Privacy :fu:
+###### :shipit: Privacy :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:****Privacy****:cherries:
 ```
@@ -1476,7 +1476,7 @@ http://sog.caliban.org/privacy?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139e
 hashtag `#session`,`#Privacy`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: ADL-Anonymous :fu:
+###### :shipit: ADL-Anonymous :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/ADL-Anonymous.png"> \
 (Server location:`Netherlands`) :ghost:**[ADL - Anonymous](http://adl.army/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Staying anonymous, avoiding surveillance, enhancing privacy**:cherries:
 ```
@@ -1485,7 +1485,7 @@ http://adl.army/anonymous?public_key=4f85a43c2d8e4cc72154b3ef7d98bd2a4dad73ab317
 hashtag `#session`,`#adl`,`#Anonymous`,`#security`,`#Privacy`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: NoGoolag :fu:
+###### :shipit: NoGoolag :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Finland`) :ghost:**[NoGoolag](https://nogoolag.com/)**:ghost::point_right::love_letter:**[XMPP group](xmpp:general@xmpp.nogoolag.com?join)**:love_letter: :cherries:**NoGoolag (De-Googling, FOSS alternatives, Privacy, Mobile devices, Big Tech impact) Discussion**:cherries:  
 ```
@@ -1494,7 +1494,7 @@ http://chat.nogoolag.com/nogoolag?public_key=53b45de08520eb3af97933e9a4991e74e26
 hashtag `#session`,`#NoGoolag`,`#Privacy`,`#foss`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Privacy Tools :fu:
+###### :shipit: Privacy Tools :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Privacy Tools lo**:cherries:
 ```
@@ -1504,7 +1504,7 @@ http://116.203.217.101/tools?public_key=2054fa3271f27ec9e55492c85d022f9582cb4aa2
 hashtag `#session`,`#Privacy`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: System-Network-Security :fu:
+###### :shipit: System-Network-Security :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**System & Network Security**:cherries:
 ```
@@ -1513,7 +1513,7 @@ http://sog.caliban.org/security?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139
 hashtag `#session`,`#Privacy`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Instant Messaging :fu:
+###### :shipit: Instant Messaging :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`Germany`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Instant Messaging**:cherries: 
 ```
@@ -1522,7 +1522,7 @@ http://sog.caliban.org/im?public_key=118df8c6c471ac0468c7c77e1cdc12f24a139ee8a07
 hashtag `#session`,`#Privacy`
 ***********************************************************************************************************************************************************************
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Privacy Chinese :fu:
+###### :shipit: Privacy Chinese :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/Chinese-Privacy.png"> \
 (Server location:`China`) :ghost:**[隐私权（Privacy）](https://session.directory/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**隐私权，隱私權 🇨🇳 The Right to Privacy**:cherries:
 ```
@@ -1534,7 +1534,7 @@ hashtag `#session`,`#Privacy`,`#Chinese`,`#中文`,`#漢語`,`#汉语`,`#隐私�
 
 #### Free software ####
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Kat67 :fu:
+###### :shipit: Kat67 :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
 (Server location:`United States`) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Kat67’s world (technology and open source software)**:cherries:
 ```
