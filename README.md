@@ -26,7 +26,7 @@ A quick lookup from browser `ctrl + f` may help to find communities by a topic
 
 * Editing Examples
   * src="`image link`"> \
-  * To add `'[Official website]()'` or `'[Contact Me]()'`, please delete the ` symbol before and after
+  * To add `[Official website]()` or `[Contact Me]()`, please delete the ``` symbol before and after
 
 ````
 
