@@ -591,6 +591,7 @@ http://reccacon.com/Ukraine?public_key=02bdb3f74b59355724b1a59676127729602b5e342
 ```
 hashtag `#session`,`#Ukraine`,`#chat`
 ***********************************************************************************************************************************************************************
+
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :fu: Czech, Slovak 🇨🇿 🇸🇰 :fu:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
@@ -610,6 +611,7 @@ https://3399981.xyz/poland?public_key=13f6560efbeee1d0046f8883c60b4c165103c114ad
 ```
 hashtag `#session`,`#`
 ***********************************************************************************************************************************************************************
+
 ### Oceania ###
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
