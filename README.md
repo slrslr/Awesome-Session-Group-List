@@ -591,19 +591,6 @@ http://reccacon.com/Ukraine?public_key=02bdb3f74b59355724b1a59676127729602b5e342
 ```
 hashtag `#session`,`#Ukraine`,`#chat`
 ***********************************************************************************************************************************************************************
-
-### Oceania ###
-
-*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
-###### :fu: Australia :fu:
-<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
-(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**A group for all things Australia**:cherries:
-```
-http://20.168.47.58/Australia?public_key=52bca7cca122eeea612c7f7/Australia?public_key=52bca7cca122eeea612c7f75ca4c39660725929a5061f35947154a9362fdd540
-```
-hashtag `#session`,`#Australia`
-***********************************************************************************************************************************************************************
-
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :fu: Czech, Slovak 🇨🇿 🇸🇰 :fu:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
@@ -622,6 +609,17 @@ hashtag `#session`,`#`
 https://3399981.xyz/poland?public_key=13f6560efbeee1d0046f8883c60b4c165103c114adbc02d4b5ba68816e8a6731
 ```
 hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
+### Oceania ###
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Australia :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website]()**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**A group for all things Australia**:cherries:
+```
+http://20.168.47.58/Australia?public_key=52bca7cca122eeea612c7f7/Australia?public_key=52bca7cca122eeea612c7f75ca4c39660725929a5061f35947154a9362fdd540
+```
+hashtag `#session`,`#Australia`
 ***********************************************************************************************************************************************************************
 
 ## Health and fitness ##
