@@ -438,6 +438,7 @@ hashtag `#session`,`#`
 
 
 ### Asia ###
+
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :fu: Russian :fu:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
@@ -466,6 +467,25 @@ http://173.249.51.184/scandinavia?public_key=2812244a5577d56a5b1220706e25cdc2303
 hashtag `#session`,`#Scandinavian`,`#chat`
 ***********************************************************************************************************************************************************************
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: India 🇮🇳 :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**India 🇮🇳 Bhārat - भारत**:cherries:
+```
+https://3399981.xyz/india?public_key=13f6560efbeee1d0046f8883c60b4c165103c114adbc02d4b5ba68816e8a6731
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Indonesia 🇮🇩 :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Indonesia 🇮🇩**:cherries:
+```
+https://3399981.xyz/indonesia?public_key=13f6560efbeee1d0046f8883c60b4c165103c114adbc02d4b5ba68816e8a6731
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
 ### Africa ###
 
 
@@ -498,6 +518,7 @@ hashtag `#session`,`#Portuguese`,`#chat`
 
 
 ### Europe ###
+
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :fu: Spanish :fu:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
@@ -583,6 +604,25 @@ http://20.168.47.58/Australia?public_key=52bca7cca122eeea612c7f7/Australia?publi
 hashtag `#session`,`#Australia`
 ***********************************************************************************************************************************************************************
 
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Czech, Slovak 🇨🇿 🇸🇰 :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Czech, Slovak 🇨🇿 🇸🇰 Česko-slovenská komunita**:cherries:
+```
+https://3399981.xyz/czsk?public_key=13f6560efbeee1d0046f8883c60b4c165103c114adbc02d4b5ba68816e8a6731
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :fu: Poland 🇵🇱 :fu:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**[Contact Me]()**:love_letter: :cherries:**Poland 🇵🇱**:cherries:
+```
+https://3399981.xyz/poland?public_key=13f6560efbeee1d0046f8883c60b4c165103c114adbc02d4b5ba68816e8a6731
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
 
 ## Health and fitness ##
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
