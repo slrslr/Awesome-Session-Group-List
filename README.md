@@ -18,14 +18,16 @@
 
 #
 ![FLV-UWEXIAQ8W6M](https://user-images.githubusercontent.com/42504385/168221064-32307f60-ccb6-47d9-be15-cb24ad400d39.jpeg)
-![FLV-UWEXIAQ8W6M](https://pbs.twimg.com/media/FR_SFYxVIAE-lFe?format=jpg)
+![image](https://user-images.githubusercontent.com/42504385/199498869-9a31a18e-7cd5-430c-a119-1fbf1471e431.png)
+
 
 #
 A quick lookup from browser `ctrl + f` may help to find communities by a topic
 [<img align="right" width="16" height="16" src="button/up_button.jpg" alt="Back to top">](#contents)
 
 * Editing Examples
-  * src="`image link`"> \
+  * Server avatar, or from other Copy image links, open [New issue](https://github.com/GNU-Linux-libre/Awesome-Session-Group-List/issues) Upload an avatar, copy the link.  to src="`image link`"> 
+
   * To add `[Official website]()` or `[Contact Me]()`, please delete the ``` symbol before and after
 
 ````
