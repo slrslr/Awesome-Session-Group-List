@@ -27,7 +27,6 @@ A quick lookup from browser `ctrl + f` may help to find communities by a topic
 
 * Editing Examples
   * Server avatar, or from other Copy image links, open [New issue](https://github.com/GNU-Linux-libre/Awesome-Session-Group-List/issues) Upload an avatar, copy the link.  to src="`image link`"> 
-
   * To add `[Official website]()` or `[Contact Me]()`, please delete the ``` symbol before and after
 
 ````
