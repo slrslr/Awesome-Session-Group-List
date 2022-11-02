@@ -4,7 +4,7 @@
 **[WEB4](https://en.everybodywiki.com/Web4)** \
 **[RSF’s 2022 World Freedom Index](https://rsf.org/en/index?year=2022)** \
 **[Global Freedom Internet Freedom Democracy Status](https://freedomhouse.org/explore-the-map?type=fiw&year=2022)** \
-**[The Global Rule of Law Recession Continues](https://worldjusticeproject.org/rule-of-law-index/)
+**[The Global Rule of Law Recession Continues](https://worldjusticeproject.org/rule-of-law-index/)**
 
 *[Radicle is a peer-to-peer stack for building software together. Sound fun? Try it](https://radicle.xyz/)* \
 *[decentragit uses decentralized ownership and storage to make it trivial to create a decentralized, shareable git remote of your project.](https://github.com/quorumcontrol/dgit)* \
@@ -1510,6 +1510,10 @@ hashtag `#session`,`#open source`,`#foss`
 [wikipedia Contents/Outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines) \
 [Session Open Groups - Lokinet Gitea](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups) \
 [session.directory - Directory listing for Session users and groups](https://session.directory/)
+
+# petitions
+[Our petitions](https://rsf.org/en/our-petitions) \
+[The world’s platform for change](https://www.change.org/petitions)
 
 # Thank you!
 [Cabal](https://cabal.chat/) :tropical_drink: [Revolt](https://rvlt.gg/) :tropical_drink: [Mastodon](https://joinmastodon.org/) :tropical_drink: [Glimesh](https://glimesh.tv/) :tropical_drink: [d.tube](https://d.tube/) 
