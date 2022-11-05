@@ -441,6 +441,18 @@ hashtag `#session`,`#`
 
 ### Asia ###
 
+
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :shipit: Bangladesh 🇧🇩 :shipit:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**```[Official website]()```**:ghost::point_right::love_letter:**``````[Contact Me]()``````**:love_letter: :cherries:**Bangladesh 🇧🇩**:cherries:
+```
+https://3399981.xyz/bangladesh?public_key=13f6560efbeee1d0046f8883c60b4c165103c114adbc02d4b5ba68816e8a6731
+```
+hashtag `#session`,`#`
+***********************************************************************************************************************************************************************
+
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :shipit: Russian :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
@@ -1548,10 +1560,13 @@ hashtag `#session`,`#open source`,`#foss`
 
 
 # Reference
-[awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) \
-[wikipedia Contents/Outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines) \
 [Session Open Groups - Lokinet Gitea](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups) \
-[session.directory - Directory listing for Session users and groups](https://session.directory/)
+[session.directory - Directory listing for Session users and groups](https://session.directory/) \
+[Catalogue](https://github.com/GNU-Linux-libre/Catalogue) \
+[wikipedia Contents/Outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines) \
+[awesome-discord-communities](https://github.com/mhxion/awesome-discord-communities) 
+
+
 
 # petitions
 [Our petitions](https://rsf.org/en/our-petitions) \
