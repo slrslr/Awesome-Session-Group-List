@@ -39,7 +39,7 @@ A quick lookup from browser `ctrl + f` may help to find communities by a topic
 ```
 public_key
 ```
-hashtag `#session`,`#`
+hashtag `#session`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,
 ***********************************************************************************************************************************************************************
 
 ````
@@ -446,11 +446,11 @@ hashtag `#session`,`#`
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
 ###### :shipit: Bangladesh 🇧🇩 :shipit:
 <img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
-(Server location:``) :ghost:**```[Official website]()```**:ghost::point_right::love_letter:**``````[Contact Me]()``````**:love_letter: :cherries:**Bangladesh 🇧🇩**:cherries:
+(Server location:``) :ghost:**[Official website](https://3399981.xyz/)**:ghost::point_right::love_letter:**``````[Contact Me]()``````**:love_letter: :cherries:**Bangladesh 🇧🇩**:cherries:
 ```
 https://3399981.xyz/bangladesh?public_key=13f6560efbeee1d0046f8883c60b4c165103c114adbc02d4b5ba68816e8a6731
 ```
-hashtag `#session`,`#`
+hashtag `#session`,`#Bangladesh`,`#chat`
 ***********************************************************************************************************************************************************************
 
 *<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
