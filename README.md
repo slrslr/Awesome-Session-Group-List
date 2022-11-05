@@ -1560,7 +1560,7 @@ hashtag `#session`,`#open source`,`#foss`
 
 
 # Reference
-[Session Open Groups - Lokinet Gitea](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups) \
+[Session Open Groups - Lokinet Gitea](https://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups) \
 [session.directory - Directory listing for Session users and groups](https://session.directory/) \
 [Catalogue](https://github.com/GNU-Linux-libre/Catalogue) \
 [wikipedia Contents/Outlines](https://en.wikipedia.org/wiki/Wikipedia:Contents/Outlines) \
