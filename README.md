@@ -140,20 +140,28 @@ hashtag `#session`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,
   - [Taoism](#Taoism)
   - [Buddhism](#Buddhism)
     - [True Buddha School](#True-Buddha-School)
+  - [Wuweiism](#Wuweiism)
+  - [Zhenkong Religion](#Zhenkong-Religion)
   - [Hinduism](#Hinduism)
   - [Sikhism](#Sikhism)
   - [Falun Gong](#Falun-Gong)
   - [Jainism](#Jainism)
   - [Ayyavazhi](#Ayyavazhi)
+  - [Zoroastrianism](#Zoroastrianism)
+  - [Caodaism](#Caodaism)
   - [Raëlism](#Raëlism)
   - [Temple of Set](Temple-of-Set)
   - [AMORC](#AMORC)
   - [Golden Rosycross](#Golden-Rosycross)
-  - [Tenrikyo](#Tenrikyo)
+  - [Singularity](#Singularity)
+    - [Green Lotus](#Green-Lotus)
+    - [golden Lotus](#golden-Lotus)
+    - [red Lotus](#red-Lotus)
+    - [black Lotus](#black-lotus)
+    - [white Lotus](#White-Lotus)
   - [Shinto](#Shinto)
+    - [Tenrikyo](#Tenrikyo)
   - [Spiritism Spiritualism](#Spiritism-Spiritualism)
-  - [Caodaism](#Caodaism)
-  - [Zoroastrianism](#Zoroastrianism)
   - [Satanism](#Satanism)
   - [Islam](#Islam)
   - [Christianity](#Christianity)
@@ -1029,9 +1037,13 @@ hashtag `#session`,`#adl`,`#chat`
 #### True Buddha School ####
 
 
+### Wuweiism ### 
+
+
+### Zhenkong Religion ###
+
 
 ### Hinduism ###
-
 
 
 ### Sikhism ###
@@ -1046,6 +1058,11 @@ hashtag `#session`,`#adl`,`#chat`
 ### Ayyavazhi ###
 
 
+### Zoroastrianism ###
+
+
+### Caodaism ###
+
 
 ### Raëlism ###
 
@@ -1059,19 +1076,39 @@ hashtag `#session`,`#adl`,`#chat`
 ### Golden Rosycross###
 
 
-### Tenrikyo ###
+### Singularity ###
+The Blue Lotus of Creation. Also known as the Chaos Green Lotus. It is also known as the Three Great Treasures of Chaos, together with the Heavenly Axe and the Jade Ultimatum of Creation. At the beginning of the chaos, when there was no living creature, the heaven and earth were united, and in the middle of it, there was a plant. The Green Lotus of Creation. Also known as. Chaos Green Lotus. It has twelve leaves and twenty-four petals, and at its heart, five lotus seeds are formed. It contains Pan Gu, is the power of the demon god, suddenly Pan Gu woke up, opened his eyes to see, ah, in addition to the very far starlight highlights, nothing can be seen, only a blur in front of the eyes. This creation of the blue lotus, itself will emit a faint bright light, shining nearby starry sky. Pangu, carrying a heaven-opening axe, swung towards the chaos in front of him and heard a thunderous sound, and the chaotic world was split open. The heavenly opportunity cannot be revealed, the lotus opened the beginning, swinging the huge axe to break through the chaos and open up the sky. Because of the opening of the creation of the blue lotus, and eventually disintegrated, into several pieces of innate magic treasures.  
 
+
+
+#### Green Lotus ####
+A lotus seed fell on Mount Buzhou and was nourished by the ancestral source of earth, turning into a 36-grade Green Lotus of Creation. \
+Originally, it was a 36-graded Green Lotus of Creation, a heavenly treasure that sits on the lotus platform, invulnerable to all laws, capable of brewing the power of creation, and has an unparalleled nourishing effect on the consciousness, and can regenerate the spirit. 
+
+
+#### golden Lotus ####
+A lotus seed, fallen in the West eight virtues pond, turned into twelve golden lotus of merit.  \
+Golden lotus: of merit and virtue: at the beginning belonged to the highest quality innate spiritual treasure, sitting on the lotus platform, nothing can break the amazing defense, can absorb the auspicious air to strengthen the defense is also no effect on karma, symbolizing the power of light. 
+
+#### red Lotus ####
+A lotus seed, fallen in the underworld sea of blood, turned into 12 red lotus of karma fire. \
+Karma fire red lotus: karma fire red lotus is also has a very strong defense ability, with endless red lotus night fire to burn everything, nothing can break can suppress, karma fire red lotus can release endless red lotus karma fire. The karma can also be eliminated by using the power of karma fire to burn everything, the lighter the fire into the demon, the heavier the ashes disappear forever in the world, burning karma into karma fire, both offensive and defensive. 
+
+#### black Lotus ####
+A lotus seed, fallen in the abyss of darkness, turned into twelve black lotus of destruction.\
+The black lotus of destruction: with super power, it is said to do so will have a strong defense ability, and can even absorb the surrounding tyranny, very spiritual, sitting on the lotus platform defense amazing nothing can be broken, can absorb the tyranny and other dirty negative gas to enhance the attack, can not suppress and eliminate the karma attack power under the red lotus, emitting purple and black light cover the master, can also stand on the lotus platform, defense against all It can also stand on top of the lotus platform, defending against all spells and weakening physical attacks; emitting purple and black light to replenish the magic power of the owner of the magic treasure, emitting the sight of Shura's destruction to shock the mind and mess up the human heart. It can be used for long-range attacks, absorbing violent energy to help train the mind and cultivate. Those who are struck by the light will invariably be transformed into the black lotus of the world without any special means, and the black lotus will not die until the demon puppet is destroyed. 
+
+#### White Lotus ####
+A lotus seed, fallen in three thousand fallen water, turned into twelve pure white lotus. \
+White lotus: Sitting on the lotus platform with amazing defense, it can purify everything in heaven and earth, and its white color symbolizes the light of supreme holiness. It gives people a sense of being able to watch from afar but not to play with. It can prevent the invasion of foreign devils and is invulnerable to all laws. 
 
 ### Shinto ###
 
 
+#### Tenrikyo ####
+
+
 ### Spiritism Spiritualism ###
-
-
-### Caodaism ###
-
-
-### Zoroastrianism ###
 
 
 ### Satanism ###
