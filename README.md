@@ -508,11 +508,32 @@ https://3399981.xyz/indonesia?public_key=13f6560efbeee1d0046f8883c60b4c165103c11
 ```
 hashtag `#session`,`#`
 ***********************************************************************************************************************************************************************
+
+
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :shipit: Chinese :shipit:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**```[Official website]()```**:ghost::point_right::love_letter:**``````[Contact Me]()``````**:love_letter: :cherries:**Chinese**:cherries:
+```
+http://117.186.115.186:8888/mandarin?public_key=fe93941471c07f294255391dba92ae3cf356efc4fdd287d8ba1ffef096dbaf56
+```
+hashtag `#session`,`#china`,`# chat`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,
+***********************************************************************************************************************************************************************
+
 ### Africa ###
 
 
 
 ### North America ###
+*<div align="right"><a href="#Contents">Back to directory :maple_leaf: :cherries: :lemon: :strawberry: :peach: :eggplant: :pear: :corn: :tomato:</a></div>*
+###### :shipit: Off-topic :shipit:
+<img align="left" height="128px" width="128px" alt="Server Icon" src="public/server_icons/session.png"> \
+(Server location:``) :ghost:**```[Official website]()```**:ghost::point_right::love_letter:**``````[Contact Me]()``````**:love_letter: :cherries:**No restrictions on any language chat**:cherries:
+```
+https://sog.zcyph.cc/offtopic?public_key=b7ec84eb480a17994cadfbbc36ec7f48f900adb8ded09d307ad52d1383632f78
+```
+hashtag `#session`,`#chat`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,`#`,
+***********************************************************************************************************************************************************************
 
 
 
